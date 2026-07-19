@@ -5,7 +5,7 @@
 <p>
   <a href="https://caskiuz.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-caskiuz.vercel.app-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=13131a" /></a>
   <a href="https://wa.me/584262931869"><img src="https://img.shields.io/badge/💬_WhatsApp-+58_426_2931869-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=13131a" /></a>
-  <a href="mailto:hola@caskiuz.dev"><img src="https://img.shields.io/badge/📧_Email-hola@caskiuz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13131a" /></a>
+  <a href="mailto:rijarwow@gmail.com"><img src="https://img.shields.io/badge/📧_Email-rijarwow@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13131a" /></a>
 </p>
 
 <br />
@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/🌐_Ver_Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:hola@caskiuz.dev">
+  <a href="mailto:rijarwow@gmail.com">
     <img src="https://img.shields.io/badge/📧_Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
